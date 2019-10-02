@@ -1,0 +1,21 @@
+Newton's iteration results: 
+k = 0, computed value = -3.4642858505, empirical error = 0.5357142687, true error = 0.4642858505 
+k = 1, computed value = -3.1560032368, empirical error = 0.3082825541, true error = 0.1560032368 
+k = 2, computed value = -3.0262970924, empirical error = 0.1297060996, true error = 0.0262970924 
+k = 3, computed value = -3.0009477139, empirical error = 0.0253492910, true error = 0.0009477139 
+k = 4, computed value = -3.0000014305, empirical error = 0.0009462090, true error = 0.0000014305 
+k = 5, computed value = -3.0000000000, empirical error = 0.0000015259, true error = 0.0000000000 
+k = 6, computed value = -3.0000000000, empirical error = 0.0000000000, true error = 0.0000000000 
+k = 7, computed value = -3.0000000000, empirical error = 0.0000000000, true error = 0.0000000000 
+k = 8, computed value = -3.0000000000, empirical error = 0.0000000000, true error = 0.0000000000 
+k = 9, computed value = -3.0000000000, empirical error = 0.0000000000, true error = 0.0000000000 
+k = 10, computed value = -3.0000000000, empirical error = 0.0000000000, true error = 0.0000000000 
+k = 11, computed value = -3.0000000000, empirical error = 0.0000000000, true error = 0.0000000000 
+k = 12, computed value = -3.0000000000, empirical error = 0.0000000000, true error = 0.0000000000 
+k = 13, computed value = -3.0000000000, empirical error = 0.0000000000, true error = 0.0000000000 
+k = 14, computed value = -3.0000000000, empirical error = 0.0000000000, true error = 0.0000000000 
+k = 15, computed value = -3.0000000000, empirical error = 0.0000000000, true error = 0.0000000000 
+k = 16, computed value = -3.0000000000, empirical error = 0.0000000000, true error = 0.0000000000 
+k = 17, computed value = -3.0000000000, empirical error = 0.0000000000, true error = 0.0000000000 
+k = 18, computed value = -3.0000000000, empirical error = 0.0000000000, true error = 0.0000000000 
+k = 19, computed value = -3.0000000000, empirical error = 0.0000000000, true error = 0.0000000000 

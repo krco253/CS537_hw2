@@ -14,7 +14,7 @@ float computed_value = 0; //initialize computed value
 float x0 = -4;
 float xn = x0;
 float root = -3;
-printf("My algorithm results: \n"); 
+printf("Newton's iteration results: \n"); 
 for(int k = 0; k < 20; k++){ //execute 20 times
 printf("k = %d", k); //print k value
 //calculate xn
